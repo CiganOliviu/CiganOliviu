@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Cigan Oliviu David
-##### Student at Technical University Of Cluj-Napoca
+#### Student at Technical University Of Cluj-Napoca
 
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
