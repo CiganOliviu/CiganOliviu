@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Cigan Oliviu David
-#### Student at Technical University Of Cluj-Napoca
+<img height="180em" src="https://w1.pngwing.com/pngs/232/473/png-transparent-school-background-design-technical-university-of-clujnapoca-school-public-university-educational-institution-education-research-institute.png" /> #### Student at Technical University Of Cluj-Napoca
 
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
