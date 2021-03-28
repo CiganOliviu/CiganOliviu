@@ -5,7 +5,7 @@
 - 📫 How to reach me: ciganoliviudavid@gmail.com
 - 💬 Ask me about everything related to software development
 - 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
-- ⚡ My portfolio: [CiganEnterprise](github.com/CiganEnterprise)
+- ⚡ My portfolio: [CiganEnterprise](https://github.com/CiganEnterprise)
 
 I love writing code in the way of solving day-by-day quotidian problems.
 
