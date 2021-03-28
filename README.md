@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my portfolio
 - 📫 How to reach me: ciganoliviudavid@gmail.com
 - 💬 Ask me about everything related to software development
-- 
+- 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" />
 
 <!--
