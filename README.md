@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Cigan Oliviu David
 #### Student at Technical University Of Cluj-Napoca
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" /> 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?CiganOliviu" frameborder="0"></iframe>
 
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
