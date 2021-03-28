@@ -1,9 +1,11 @@
 ### Hi 👋, I'm Cigan Oliviu David
 #### Student at Technical University Of Cluj-Napoca
 
+- 🔭 I’m currently working on my portfolio
+- 📫 How to reach me: ciganoliviudavid@gmail.com
+- 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" />
 
-- 🔭 I’m currently working on my portfolio
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
