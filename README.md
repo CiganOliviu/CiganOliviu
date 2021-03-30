@@ -6,7 +6,7 @@
 - 💬 Ask me about everything related to software development
 - 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
 - ⚡ My portfolio: [CiganEnterprise](https://github.com/CiganEnterprise)
-- 📚 My website: In progress
+- 📚 My online CV: https://ciganoliviu.github.io
 
 I love writing code in the way of solving day-by-day quotidian problems.
 
