@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Cigan Oliviu David
-#### Lifelong Learner, Inspired by Technology
-#### Student at Technical University Of Cluj-Napoca, BSc Software Engineering
+#### 📚 Lifelong Learner, Inspired by Technology
+#### 🏫 Student at Technical University Of Cluj-Napoca, BSc Software Engineering
 
 - 🔭 I’m currently working on my portfolio
 - 📫 How to reach me: ciganoliviudavid@gmail.com
