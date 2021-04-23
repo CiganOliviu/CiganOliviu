@@ -14,7 +14,7 @@ I'm interested in business, programming, soft skills, pretty much everything rel
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" />
 
-<img height="700em" src="https://activity-graph.herokuapp.com/graph?username=ciganoliviu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img height="500em" src="https://activity-graph.herokuapp.com/graph?username=ciganoliviu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
