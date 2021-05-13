@@ -2,8 +2,9 @@
 #### 📚 Lifelong Learner, Inspired by Technology
 #### 🏫 Student at Technical University Of Cluj-Napoca, BSc Software Engineering
 
-- 🔭 I’m currently contributing at 🍹Bebisoft and 🐉DrageKongen.    
-- 📑 I’m currently archiving great repos at 🌳 ReposTree
+- 💻 Currently working as a freelancer
+- 🔭 Currently contributing at 🍹Bebisoft and 🐉DrageKongen 
+- 📑 Currently archiving great repos at 🌳 ReposTree
 - 📫 How to reach me: ciganoliviudavid@gmail.com
 - 💬 Ask me about everything related to software development
 - 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
