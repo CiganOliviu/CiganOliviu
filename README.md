@@ -6,7 +6,7 @@
 - 🔭 Currently contributing at 🍹Bebisoft and 🐉DrageKongen 
 - 📑 Currently archiving great repos at 🌳 ReposTree
 - 📫 How to reach me: ciganoliviudavid@gmail.com
-- 💬 Ask me about everything related to software development
+- 💬 Ask me about everything related to software development, marketing, sales or business
 - 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
 - ⚡ My portfolio: [CiganEnterprise](https://github.com/CiganEnterprise)
 - 📚 My online CV: https://ciganoliviu.github.io
