@@ -20,8 +20,6 @@ I'm interested in business, programming, soft skills, pretty much everything rel
 <img height="400em" src="https://activity-graph.herokuapp.com/graph?username=ciganoliviu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?CiganOliviu" frameborder="0"></iframe>
-
 <!--
 **CiganOliviu/CiganOliviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
