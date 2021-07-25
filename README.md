@@ -16,7 +16,6 @@ I love writing code in the way of solving day-by-day quotidian problems.
 I'm interested in business, programming, soft skills, pretty much everything related to business, team leading, and technology.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiganOliviu&show_icons=true&theme=radical" />
-<img height="400em" src="https://activity-graph.herokuapp.com/graph?username=ciganoliviu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
 <!--
