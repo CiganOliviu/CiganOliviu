@@ -1,10 +1,9 @@
 ### Hi 👋, I'm Cigan Oliviu David
 #### 📚 Lifelong Learner, Inspired by Technology
 #### 🏫 Student at Technical University Of Cluj-Napoca, BSc Software Engineering
+#### 💻 Web Application Developer at 3SS (3 Screen Solutions)
 
-- 💻 Currently working for 📱3SS
-- 🔭 Currently contributing at 🍹Bebisoft and 🐉DrageKongen 
-- 📑 Currently archiving great repos at 🌳 ReposTree
+- 🔭 Currently working at private projects
 - 📫 How to reach me: ciganoliviudavid@gmail.com
 - 💬 Ask me about everything related to software development, marketing, sales or business
 - 🚀 I’m currently learning based on Need2Nerd philosophy 🤔
